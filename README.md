@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Kerem Ersu</h2>
-<h3 align="left">I am a Computer Science student at Bursa Technical University</h3>
+<h3 align="left">I am a Junior Android Developer</h3>
 
 </br>
 
