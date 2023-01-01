@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Kerem Ersu</h2>
+<h2 align="left">Hi, I'm Kerem</h2>
 <h3 align="left">I am a Junior Android Developer</h3>
 
 </br>
@@ -11,11 +11,6 @@
         <img align="center"  src="https://img.shields.io/github/followers/keremersu35?style=flat-square&color=f75c7e">
     </a>
 </br>
-
-<a href="https://github.com/keremersu35">
-    </br>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=keremersu35&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keremersu35&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
 
 <h2>Languages and Tools</h2>
