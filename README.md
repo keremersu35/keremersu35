@@ -1,17 +1,4 @@
 <h2 align="left">Hi, I'm Kerem</h2>
-<h3 align="left">I am a Junior Android Developer</h3>
-
-</br>
-
-<div align="center">
-    <a href="https://github.com/keremersu35/github-profile-views-counter">
-        <img align="center" src="https://komarev.com/ghpvc/?username=keremersu35&color=f75c7e">
-    </a>
-    <a href="https://github.com/keremersu35?tab=followers">
-        <img align="center"  src="https://img.shields.io/github/followers/keremersu35?style=flat-square&color=f75c7e">
-    </a>
-</br>
-</div>
 
 <h2>Languages and Tools</h2>
 <div style="display: inline_block"><br>
