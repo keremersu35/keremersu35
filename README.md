@@ -1,4 +1,6 @@
-<h2 align="left">Hi, I'm Kerem</h2>
+- 👋 Hi, I’m Kerem
+- 👀 I’m interested in mobile programming
+-  I’m currently learning ```Swift & iOS```
 
 <div align="center">
     <a href="https://github.com/keremersu35/github-profile-views-counter">
