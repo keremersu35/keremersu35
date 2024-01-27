@@ -14,10 +14,10 @@
 <h2>Languages and Tools</h2>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="assets/swift.svg">
-  <img align="center" height="30" width="40" src="assets/swiftui.svg">
   <img align="center" height="30" width="40" src="assets/android.svg">
   <img align="center" height="30" width="40" src="assets/kotlin.svg">
   <img align="center" height="30" width="40" src="assets/git.svg">
+  <img align="center" height="30" width="40" src="assets/flutter.svg">
   <img align="center" height="30" width="40" src="assets/bitbucket.svg">
 
 </div>
