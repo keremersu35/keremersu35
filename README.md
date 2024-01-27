@@ -13,10 +13,10 @@
 
 <h2>Languages and Tools</h2>
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="assets/kotlin.svg">
-  <img align="center" height="30" width="40" src="assets/jetpackcompose.svg">
-  <img align="center" height="30" width="40" src="assets/android.svg">
   <img align="center" height="30" width="40" src="assets/swift.svg">
+  <img align="center" height="30" width="40" src="assets/ios.svg">
+  <img align="center" height="30" width="40" src="assets/android.svg">
+  <img align="center" height="30" width="40" src="assets/kotlin.svg">
   <img align="center" height="30" width="40" src="assets/git.svg">
   <img align="center" height="30" width="40" src="assets/bitbucket.svg">
 
