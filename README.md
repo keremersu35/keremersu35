@@ -1,15 +1,6 @@
 - 👋 Hi, I’m Kerem
 - 👀 I’m interested in mobile programming
--  I’m currently learning ```Swift & iOS```
-
-<div align="center">
-    <a href="https://github.com/keremersu35/github-profile-views-counter">
-        <img align="center" src="https://komarev.com/ghpvc/?username=keremersu35&color=f75c7e">
-    </a>
-    <a href="https://github.com/keremersu35?tab=followers">
-        <img align="center"  src="https://img.shields.io/github/followers/keremersu35?style=flat-square&color=f75c7e">
-    </a>
-</div>
+-  I’m currently working on ```Swift & iOS```
 
 <h2>Languages and Tools</h2>
 <div style="display: inline_block"><br>
